@@ -103,3 +103,6 @@ Marcar la(s) respuestas correctas.
 
 8. En el directorio local de trabajo, ejecutar `git pull`. Indicar los comandos utilizados y la salida en la consola del sistema
 
+![image](https://github.com/Stefano2510/cerseu_git_abril24/assets/95462072/96a4f98b-5cb6-4d07-b0b5-6246fe98a2f0)
+
+![image](https://github.com/Stefano2510/cerseu_git_abril24/assets/95462072/b1e7ea2f-4ae4-4fa1-a9fd-17f5bc4e935d)
