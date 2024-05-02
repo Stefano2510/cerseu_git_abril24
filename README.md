@@ -93,6 +93,9 @@ Marcar la(s) respuestas correctas.
 
 5. Añadir un archivo `.gitignore` que permita ignorar cualquier archivo con extensión `*.pdf`, `*.xml`, y `*.zip` de nuestro repositorio.  Guardar esos archivos en su repositorio remoto. Indicar los comandos utilizados y la salida en la consola del sistema
 
+![image](https://github.com/Stefano2510/cerseu_git_abril24/assets/95462072/ab5d4b19-7f9b-480b-98ac-b0aafc76813d)
+
+![image](https://github.com/Stefano2510/cerseu_git_abril24/assets/95462072/727b85b8-a714-4346-8d30-848f53a62f5b)
 
 6. Crear una rama de git (branch) llamada "bio". En esta rama añadir el archivo `biografia.md`. El contenido de este archivo debe ser su propia biografia en no mas de tres oraciones.  Guardar este archivo en su repositorio remoto. Indicar los comandos utilizados y la salida en la consola del sistema
 
