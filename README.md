@@ -99,6 +99,9 @@ Marcar la(s) respuestas correctas.
 
 6. Crear una rama de git (branch) llamada "bio". En esta rama añadir el archivo `biografia.md`. El contenido de este archivo debe ser su propia biografia en no mas de tres oraciones.  Guardar este archivo en su repositorio remoto. Indicar los comandos utilizados y la salida en la consola del sistema
 
+![image](https://github.com/Stefano2510/cerseu_git_abril24/assets/95462072/e1ddc5f7-b5d2-40be-a3fb-d8e633e91407)
+
+![image](https://github.com/Stefano2510/cerseu_git_abril24/assets/95462072/536110a6-b12a-40ab-b7e5-f1aaf0d90f73)
 
 7. Usando la interface web de GitHub, crear un _Pull Request_ para incorporar los cambios de la rama "bio" en la rama "main". Aprobar el _Pull Request_. Mostrar las capturas de pantalla relevantes
 
