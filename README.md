@@ -87,6 +87,9 @@ Marcar la(s) respuestas correctas.
 
 4. Guardar esos archivos en su repositorio remoto (es decir, en GitHub). Indicar los comandos utilizados y la salida en la consola del sistema
 
+![image](https://github.com/Stefano2510/cerseu_git_abril24/assets/95462072/91d25c80-220e-432f-8431-37b8e636374b)
+
+![image](https://github.com/Stefano2510/cerseu_git_abril24/assets/95462072/0c20d159-0ef9-40fd-a869-274d8f421199)
 
 5. Añadir un archivo `.gitignore` que permita ignorar cualquier archivo con extensión `*.pdf`, `*.xml`, y `*.zip` de nuestro repositorio.  Guardar esos archivos en su repositorio remoto. Indicar los comandos utilizados y la salida en la consola del sistema
 
