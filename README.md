@@ -93,8 +93,6 @@ Marcar la(s) respuestas correctas.
 
 7. Usando la interface web de GitHub, crear un _Pull Request_ para incorporar los cambios de la rama "bio" en la rama "main". Aprobar el _Pull Request_. Mostrar las capturas de pantalla relevantes
 
-![Captura de pantalla 2024-05-01 220615](https://github.com/Stefano2510/cerseu_git_abril24/assets/95462072/406e41be-f0ba-4c3b-bed0-0cc92b4aa2d9)
-
 ![Captura de pantalla 2024-05-01 224434](https://github.com/Stefano2510/cerseu_git_abril24/assets/95462072/870c52f6-ba40-4143-800d-b54ffa0c7f18)
 
 ![Captura de pantalla 2024-05-01 224533](https://github.com/Stefano2510/cerseu_git_abril24/assets/95462072/ba7e1a45-dc3f-4d78-bb86-995c48ba46b7)
@@ -102,8 +100,6 @@ Marcar la(s) respuestas correctas.
 ![Captura de pantalla 2024-05-01 224602](https://github.com/Stefano2510/cerseu_git_abril24/assets/95462072/71a8605b-21e5-4408-81fa-a085adbf0b31)
 
 ![Captura de pantalla 2024-05-01 224618](https://github.com/Stefano2510/cerseu_git_abril24/assets/95462072/7fd15286-02b5-4ffa-b540-c5c379bc5713)
-
-![Captura de pantalla 2024-05-01 225129](https://github.com/Stefano2510/cerseu_git_abril24/assets/95462072/a8dd7e99-f9e4-4bff-8147-15fabe2b4ad9)
 
 8. En el directorio local de trabajo, ejecutar `git pull`. Indicar los comandos utilizados y la salida en la consola del sistema
 
