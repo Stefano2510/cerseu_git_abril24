@@ -83,6 +83,7 @@ Marcar la(s) respuestas correctas.
 
 3. En el directorio local de trabajo, crear tres o cuatro archivos conforme al siguiente formato: `<primer-nombre>.txt`, `<segundo-nombre>.txt`, `<apellido-paterno>.txt`, `<apellido-materno>.txt` (ejemplo: `juan.txt`, `perez.txt`, `garcia.txt`). Dichos archivos pueden tener cualquier texto como contenido. Indicar los comandos utilizados y la salida en la consola del sistema
 
+![image](https://github.com/Stefano2510/cerseu_git_abril24/assets/95462072/04d9c15e-163b-4051-bc6f-e9639d181587)
 
 4. Guardar esos archivos en su repositorio remoto (es decir, en GitHub). Indicar los comandos utilizados y la salida en la consola del sistema
 
