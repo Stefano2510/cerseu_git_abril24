@@ -78,6 +78,7 @@ Marcar la(s) respuestas correctas.
 
 2. Desde su computadora local, clonar el repositorio creado en GitHub en la pregunta anterior. Indicar los comandos utilizados y la salida en la consola del sistema
 
+![image](https://github.com/Stefano2510/cerseu_git_abril24/assets/95462072/13b196a3-be1c-4e53-9098-bb3079d2c26e)
 
 3. En el directorio local de trabajo, crear tres o cuatro archivos conforme al siguiente formato: `<primer-nombre>.txt`, `<segundo-nombre>.txt`, `<apellido-paterno>.txt`, `<apellido-materno>.txt` (ejemplo: `juan.txt`, `perez.txt`, `garcia.txt`). Dichos archivos pueden tener cualquier texto como contenido. Indicar los comandos utilizados y la salida en la consola del sistema
 
