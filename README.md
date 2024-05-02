@@ -75,6 +75,7 @@ Marcar la(s) respuestas correctas.
 
 1. Usando la interface web de GitHub, crear un repositorio publico llamado "cerseu_git_abril24". Indicar el URL del repositorio creado
 
+![image](https://github.com/Stefano2510/cerseu_git_abril24/assets/95462072/e2d15258-77ca-4ea5-8391-4fcf1b309142)
 
 2. Desde su computadora local, clonar el repositorio creado en GitHub en la pregunta anterior. Indicar los comandos utilizados y la salida en la consola del sistema
 
